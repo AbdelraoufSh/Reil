@@ -6,7 +6,7 @@ import Contact from '../views/ContactView.vue'
 import About from '../views/AboutView.vue'
 Vue.use(VueRouter)
 export default new VueRouter({
-  mode: 'history', 
+  mode: 'hash', 
  routes : [
   {
     path: '/',

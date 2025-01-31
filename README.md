@@ -1,5 +1,5 @@
 # newpro
-
+### if you want to install and try this project on your device don't forget to edit the api url on vuex to 'https://localhost:3000/api/(specific path)' ###
 ## Project setup
 ```
 npm install
